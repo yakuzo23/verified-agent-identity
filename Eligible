@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'Eligible'
         required: true
-        default: 'Aulbycans'
+        default: 'Eligible'
       agent_description:
         description: 'Eligible'
         required: true
